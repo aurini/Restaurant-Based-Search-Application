@@ -14,4 +14,5 @@ There is Login system for the owners of restaurent so that they can update the m
 
 For owner login I used Google Api service.
 For Database management I used firebase.
-Lastly, for tracking the user location manually I used the GPS sensor reading.
+Lastly, for tracking the user location manually I used the mobile GPS sensor.
+
