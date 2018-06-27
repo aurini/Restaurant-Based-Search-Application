@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="location_prompt">Choose a country</string>
+    <string-array name="Location_array">
+        <item>Baily Road</item>
+        <item>Banani</item>
+        <item>Mohakhali</item>
+
+    </string-array>
+    <string name="Low">Low(0tk-399tk)</string>
+    <string name="High">High(400tk-higher)</string>
+    <string name="spinner_title">Select Category</string>
+
+</resources>
